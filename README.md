@@ -1,7 +1,3 @@
-Sure! Here's the updated version with a "Contact Me" section added at the end.
-
----
-
 # Laptop Price Prediction Project
 
 ## Project Overview
